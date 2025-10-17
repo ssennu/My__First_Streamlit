@@ -37,7 +37,6 @@ mdurl==0.1.2
 ml_dtypes==0.5.3
 namex==0.1.0
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1733325553580/work
-numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.17.0
 packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
@@ -60,7 +59,6 @@ six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_17
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 tensorboard==2.20.0
 tensorboard-data-server==0.7.2
-tensorflow==2.20.0
 termcolor==3.1.0
 tornado @ file:///D:/bld/tornado_1754732005081/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1733367359838/work
@@ -70,3 +68,4 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_173323132628
 Werkzeug==3.1.3
 wrapt==1.17.3
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
+
